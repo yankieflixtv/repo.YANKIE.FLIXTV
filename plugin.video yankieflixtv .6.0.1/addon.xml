@@ -23,7 +23,7 @@
   </extension>
 
  <extension point="xbmc.addon.repository" name="Mi repositorio">
-        <info>https://raw.githubusercontent.com/yankieflixtv/repo.YANKIE.FLIXTV/master/addons.XML.xml</info>
+        <info>https://raw.githubusercontent.com/yankieflixtv/repo.YANKIE.FLIXTV/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/yankieflixtv/repo.YANKIE.FLIXTV/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/yankieflixtv/master/Repositorio/</datadir>
     </extension>
