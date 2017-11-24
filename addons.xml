@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.YANKIEFLIX.TV"
        name="[COLOR gold]YANKIEFLIX.TV[/COLOR][COLOR gold] 6[/COLOR].[COLOR gold]0[/COLOR].[COLOR gold]3[/COLOR]"
-       version="6.0.3"
+       version="6.0.4"
        provider-name="YANKIEFLIX.TV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
